@@ -1,0 +1,6 @@
+{
+    "title": "[TTT] Mirror Fate - Huskles Edition",
+    "type": "weapon",
+    "tags": ["fun"],
+    "ignore": [".*", ".vscode", "*.md", "*.gma", "*.ps1", "logo.jpg"]
+}
