@@ -1,4 +1,4 @@
-include("newshared.lua")
+include("shared.lua")
 
 SWEP.PrintName = "Mirror Fate"
 SWEP.Slot = 7

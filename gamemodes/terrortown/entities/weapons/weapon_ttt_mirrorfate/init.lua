@@ -1,8 +1,8 @@
-AddCSLuaFile("newshared.lua")
+AddCSLuaFile("shared.lua")
 AddCSLuaFile("cl_init.lua")
 resource.AddFile("materials/vgui/ttt/icon_timer.vmt")
 
-include("newshared.lua")
+include("shared.lua")
 include("sv_fates.lua")
 
 if #mirrorFateFates == 0 then
